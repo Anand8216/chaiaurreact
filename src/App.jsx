@@ -16,7 +16,7 @@ let [counter,setCounter]=useState(15);
  }
 
 const removeValue=()=>{
-  setCounter(counter-1);
+  setCounter(counter-2);
 }
 
 
